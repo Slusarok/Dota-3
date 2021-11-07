@@ -61,11 +61,7 @@ public:
 		new_player.push_back(Player(ID_Player, Name_Player, Rank_Player));
 	}
 
-	void CreatePlayer(Player New_player[5])
-	{
-		for (int i = 0; i < 5; ++i)
-			new_player.push_back(New_player[i]);
-	}
+	
 
 	void DeletePlayer(int Del_ID)
 	{
@@ -132,11 +128,7 @@ public:
 		all_hero.push_back(Hero(ID_Hero, Name_Hero, Damage_Hero, HP_Hero));
 	}
 
-	void CreateHero(Hero All_hero[5])
-	{
-		for (int i = 0; i < 5; ++i)
-			all_hero.push_back(All_hero[i]);
-	}
+	
 
 	void DeleteHero(int Del_ID)
 	{
@@ -234,18 +226,6 @@ public:
 				new_All_hero[i] = all_hero[i+5];
 				new_New_player[i] = new_player[i+5];
 			}
-				/*new_All_hero[0] = all_hero[5];
-				new_New_player[0] = new_player[5];
-				new_All_hero[1] = all_hero[6];
-				new_New_player[1] = new_player[6];
-				new_All_hero[2] = all_hero[7];
-				new_New_player[2] = new_player[7];
-				new_All_hero[3] = all_hero[8];
-				new_New_player[3] = new_player[8];
-				new_All_hero[4] = all_hero[9];
-				new_New_player[4] = new_player[9];
-				*/
-
 		}
 
 		Team team(TeamName, new_All_hero, new_New_player);
@@ -397,11 +377,6 @@ int main()
 	
 	create_Player_Manager.PlayerShaffle();
 	create_Hero_Manager.HeroShaffle();
-	/*anager teamManager = TeamManager();
-	Team Dire = teamManager.GenerateNewTeam("Dire", create_Hero_Manager.all_hero, create_Player_Manager.new_player);
-	Team Radiant = teamManager.GenerateNewTeam("Radiant", create_Hero_Manager.all_hero, create_Player_Manager.new_player);
-	teamManager.GetTeamInfo("Dire", Dire.All_hero, Dire.New_player);
-	teamManager.GetTeamInfo("Radiant", Radiant.All_hero, Radiant.New_player);*/
 	GameManager gamemanage = GameManager();
 	gamemanage.PerformGameSession(create_Player_Manager, create_Hero_Manager);
 

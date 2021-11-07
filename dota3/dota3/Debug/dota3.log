@@ -1,11 +1,11 @@
 ﻿  dota3.cpp
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(87,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(98,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(108,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(148,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(161,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(175,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(184,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(370,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(83,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(94,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(104,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(140,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(153,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(350,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   dota3.vcxproj -> C:\Users\Nazarius\source\repos\dota3\Debug\dota3.exe
