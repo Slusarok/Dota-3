@@ -1,11 +1,107 @@
 ﻿  dota3.cpp
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(83,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(94,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(104,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(140,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(153,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(176,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nazarius\source\repos\dota3\dota3\dota3.cpp(350,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  dota3.vcxproj -> C:\Users\Nazarius\source\repos\dota3\Debug\dota3.exe
+C:\Users\Nazarius\source\repos\dota3\dota3\Player.h(5,9): error C3646: Name: неизвестный спецификатор переопределения
+C:\Users\Nazarius\source\repos\dota3\dota3\Player.h(5,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Nazarius\source\repos\dota3\dota3\Player.h(6,24): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\Player.h(9,3): error C2065: Name: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\Player.h(9,10): error C2065: Name_Player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\Player.h(10,10): error C2065: Rank_Player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(5,9): error C3646: Name: неизвестный спецификатор переопределения
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(5,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(6,20): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(9,3): error C2065: Name: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(9,10): error C2065: Name_Hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(10,12): error C2065: Damage_Hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\Hero.h(11,8): error C2065: HP_Hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(5,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(5,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(5,22): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(7,31): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(19,22): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(9,3): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(9,36): error C2065: Name_Hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(9,47): error C2065: Damage_Hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(9,60): error C2065: HP_Hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(16,3): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(16,18): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(21,23): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(23,8): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(23,28): error C2065: name: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(25,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(25,13): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(25,53): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(25,97): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(25,142): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(25,164): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(26,13): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(34,23): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(36,8): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(38,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(38,13): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(38,51): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(38,95): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(38,140): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(38,162): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(39,13): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(48,23): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(50,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(50,12): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(50,50): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(50,95): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(50,140): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(50,162): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(52,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(52,11): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(56,18): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(56,35): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(56,3): error C3861: random_shuffle: идентификатор не найден
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(57,23): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(59,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(59,12): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(59,50): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(59,94): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(59,139): error C2065: all_hero: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(59,161): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(62,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\HeroManager.h(62,11): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(4,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(4,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(4,26): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(6,35): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(18,26): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(28,24): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(8,3): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(8,42): error C2065: Name_Player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(8,55): error C2065: Rank_Player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(15,3): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(15,20): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(20,23): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(22,8): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(22,30): error C2065: name: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(23,13): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(30,23): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(32,8): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(32,28): error C2065: id: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(33,13): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(41,23): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(43,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(43,12): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(43,53): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(43,104): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(43,126): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(45,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(45,11): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(50,18): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(50,38): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(50,3): error C3861: random_shuffle: идентификатор не найден
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(51,23): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(53,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(53,12): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(53,53): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(53,104): error C2065: new_player: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(53,126): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(56,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\PlayerManager.h(56,11): error C2065: endl: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\TeamManager.h(3,23): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\TeamManager.h(28,19): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\Nazarius\source\repos\dota3\dota3\TeamManager.h(7,7): error C2065: TeamName: необъявленный идентификатор
+C:\Users\Nazarius\source\repos\dota3\dota3\TeamManager.h(7,1): fatal error C1003: число ошибок превышает 100; остановка компиляции
